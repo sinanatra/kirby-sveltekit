@@ -1,0 +1,14 @@
+Icon
+.DS_Store
+node_modules
+/.svelte-kit
+/build
+/functions
+vendor
+.cache
+/content/*
+_backup
+/package
+package-lock.json
+.env
+admin/*
