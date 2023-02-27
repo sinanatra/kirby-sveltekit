@@ -6,7 +6,7 @@ This repo is my own starterkit for Kirby 3 projects with SvelteKit. Featuring [K
 
 ## Requirements
 
-+ [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/).
++ [Node.js](https://nodejs.org/en/) and [yarn](https://yarnpkg.com/).
 + [Composer](https://getcomposer.org/doc/00-intro.md)
 
 ## Installation
