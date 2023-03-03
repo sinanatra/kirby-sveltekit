@@ -6,7 +6,7 @@ export const load = ({ fetch }) => {
                 'content-type': 'application/json'
             },
             body: JSON.stringify({
-                query: 'site.title',
+                query: "page('home')",
             }),
         });
         const data = await res.json();
