@@ -1,6 +1,6 @@
 <script>
-	import Header from '../components/Header.svelte';
-	import './styles.css';
+	import Header from "../components/Header.svelte";
+	import "./styles.css";
 </script>
 
 <div class="app">
@@ -10,4 +10,3 @@
 		<slot />
 	</main>
 </div>
-
