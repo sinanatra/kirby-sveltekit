@@ -40,7 +40,7 @@ yarn
 
 5. Run and build the development environment.
 ```
-yarn start
+yarn dev
 yarn build
 ```
 
